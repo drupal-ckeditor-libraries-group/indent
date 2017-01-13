@@ -2,7 +2,7 @@
 Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'indent', 'no', {
-	indent: 'Øk innrykk',
-	outdent: 'Reduser innrykk'
+CKEDITOR.plugins.setLang( 'indent', 'az', {
+	indent: 'Sol boşluqu artır',
+	outdent: 'Sol boşluqu azalt'
 } );
